@@ -1101,6 +1101,10 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sU9vmH43a7 .card-title,
+.cid-sU9vmH43a7 .card-box {
+  color: #ffffff;
+}
 .cid-sU9VGHJ1o1 {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -1258,10 +1262,10 @@ a {
   line-height: 1.75;
 }
 .cid-sUdOFK3UwK .item {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sUdOFK3UwK .col-title {
-  color: #000000;
+  color: #ffffff;
   font-weight: 600;
 }
 .cid-sUdOFK3UwK .fill-light-wrapper {
@@ -1283,5 +1287,5 @@ a {
   font-size: 20px;
 }
 .cid-sUdOFK3UwK .icons-wrapper ul li .mbr-iconfont:hover {
-  color: #878787;
+  color: #000000;
 }
